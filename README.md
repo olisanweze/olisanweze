@@ -24,6 +24,9 @@ world.
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=004d4d"/>&nbsp;
   <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=004d4d"/>&nbsp;
   <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=004d4d"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=004d4d")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=004d4d")/>&nbsp;
+  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=004d4d")/>&nbsp;
 </p>
 
 ##
