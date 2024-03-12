@@ -19,6 +19,10 @@ I believe that software development is not just about writing code, but also
 about continuous growth, collaboration, and making a positive difference in the 
 world.
 
+< /br>
+
+<img src="https://komarev.com/ghpvc/?username=olisanweze&style=for-the-badge&color=004d4d">
+
 ### My skills
 <p align="center">
   <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=004d4d"/>&nbsp;
