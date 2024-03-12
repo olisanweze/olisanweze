@@ -19,7 +19,7 @@ I believe that software development is not just about writing code, but also
 about continuous growth, collaboration, and making a positive difference in the 
 world.
 
-< /br>
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=olisanweze&style=for-the-badge&color=004d4d">
 
