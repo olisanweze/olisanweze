@@ -13,12 +13,6 @@ complex problems or collaborating with peers to build innovative projects,
 I'm always eager to push the boundaries of what's possible in software 
 development.
 
-When I'm not immersed in lines of code, you can find me exploring new 
-technologies, attending hackathons, or contributing to open-source projects. 
-I believe that software development is not just about writing code, but also 
-about continuous growth, collaboration, and making a positive difference in the 
-world.
-
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=olisanweze&style=for-the-badge&color=004d4d">
